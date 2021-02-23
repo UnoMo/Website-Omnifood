@@ -187,4 +187,8 @@ header {
 .meal-photo img:hover {
   opacity: 1;
   transform: scale(1.03);
+}
+
+.section-features .long-copy {
+  margin-bottom: 30px;
 }/*# sourceMappingURL=app.css.map */

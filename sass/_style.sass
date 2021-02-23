@@ -1,0 +1,27 @@
+/* STYLE.SASS */
+
+.btn:link, .btn:visited
+    display: inline-block
+    padding: 10px 30px
+    font-weight: 300
+    text-decoration: none
+    border-radius: 200px
+    transition: background-color 0.3s, border 0.3s, color 0.3s
+
+    &.btn-full
+        background-color: $colorBtn
+        border: 1px solid $colorBtn
+        color: $colorBg
+        margin-right: 20px
+
+    &.btn-ghost
+        border: 1px solid $colorBtn
+        color: $colorBtn
+
+    &:hover
+        background-color: $colorBtnHover
+        color: $colorBg
+        border: 1px solid $colorBtnHover
+
+        &:active
+            border: 1px solid $colorBtnHover

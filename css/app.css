@@ -168,11 +168,9 @@ header {
   text-align: center;
 }
 
-/* SECTIONS.SASS */
-.section-steps {
-  background-color: #f4f4f4;
-}
-
+/* OMNIFOOD SECTIONS */
+/* ================= */
+/* MEALS.SASS */
 .section-meals {
   padding: 0;
 }
@@ -205,8 +203,14 @@ header {
   transform: scale(1.03);
 }
 
+/* FEATURES.SASS */
 .section-features .long-copy {
   margin-bottom: 30px;
+}
+
+/* STEPS.SASS */
+.section-steps {
+  background-color: #f4f4f4;
 }
 
 .steps-box:first-child {

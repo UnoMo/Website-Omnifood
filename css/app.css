@@ -333,4 +333,51 @@ cite img {
   border-radius: 50%;
   margin-right: 10px;
   vertical-align: middle;
+}
+
+/* PRICING.SASS */
+.pricing {
+  background-color: #f4f4f4;
+}
+
+.price-box {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 90%;
+  margin-left: 5%;
+  box-shadow: 0 2px 2px #d4d4d4;
+}
+.price-box div {
+  padding: 15px;
+  border-bottom: 1px solid #f4f4f4;
+}
+.price-box div:first-child {
+  background-color: #fcfcfc;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.price-box div:last-child {
+  text-align: center;
+  border: none;
+}
+.price-box ul {
+  list-style: none;
+}
+.price-box ul li {
+  padding: 5px 0;
+}
+
+.price-plan {
+  font-size: 300%;
+  margin-bottom: 10px;
+  font-weight: 100;
+  color: #e67e22;
+}
+.price-plan span {
+  font-size: 30%;
+  font-weight: 300;
+}
+
+.price-meal {
+  font-size: 80%;
 }/*# sourceMappingURL=app.css.map */

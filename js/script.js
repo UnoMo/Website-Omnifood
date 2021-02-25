@@ -92,8 +92,6 @@ $(document).ready(function() {
             icon.addClass('ion-navicon-round');
             icon.removeClass('ion-close-round');
         }
-
-        // ion-close-round
     });
 
 });

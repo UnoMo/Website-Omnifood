@@ -5,19 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Omnifood</title>
-    <link rel="stylesheet" href="/vendors/css/normalize.css" />
-    <link rel="stylesheet" href="/vendors/css/grid.css" />
-    <link rel="stylesheet" href="/vendors/css/ionicons.min.css" />
-    <link rel="stylesheet" href="/vendors/css/animate.min.css" />
-    <link rel="stylesheet" href="/css/app.css" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png" />
-    <link rel="manifest" href="/images/icons/site.webmanifest" />
-    <link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg" color="#e67e22" />
-    <link rel="shortcut icon" href="/images/icons/favicon.ico" />
+    <link rel="stylesheet" href="vendors/css/normalize.css" />
+    <link rel="stylesheet" href="vendors/css/grid.css" />
+    <link rel="stylesheet" href="vendors/css/ionicons.min.css" />
+    <link rel="stylesheet" href="vendors/css/animate.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="images/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="images/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="images/icons/favicon-16x16.png" />
+    <link rel="manifest" href="images/icons/site.webmanifest" />
+    <link rel="mask-icon" href="images/icons/safari-pinned-tab.svg" color="#e67e22" />
+    <link rel="shortcut icon" href="images/icons/favicon.ico" />
     <meta name="msapplication-TileColor" content="#e67e22" />
-    <meta name="msapplication-config" content="/images/icons/browserconfig.xml" />
+    <meta name="msapplication-config" content="images/icons/browserconfig.xml" />
     <meta name="theme-color" content="#e67e22" />
   </head>
   <body>
@@ -90,44 +90,44 @@
       <ul class="meals-showcase clearfix">
         <li>
           <figure class="meal-photo">
-            <img src="/images/1.jpg" alt="Korean bibimbap with egg and vegetables" />
+            <img src="images/1.jpg" alt="Korean bibimbap with egg and vegetables" />
           </figure>
         </li>
         <li>
           <figure class="meal-photo">
-            <img src="/images/2.jpg" alt="Simple italian pizza with cherry tomatoes" />
+            <img src="images/2.jpg" alt="Simple italian pizza with cherry tomatoes" />
           </figure>
         </li>
         <li>
           <figure class="meal-photo">
-            <img src="/images/3.jpg" alt="Chicken breast steak with vegetables" />
+            <img src="images/3.jpg" alt="Chicken breast steak with vegetables" />
           </figure>
         </li>
         <li>
           <figure class="meal-photo">
-            <img src="/images/4.jpg" alt="Autumn pumpkin soup" />
+            <img src="images/4.jpg" alt="Autumn pumpkin soup" />
           </figure>
         </li>
       </ul>
       <ul class="meals-showcase clearfix">
         <li>
           <figure class="meal-photo">
-            <img src="/images/5.jpg" alt="Paleo beef steak with vegetables" />
+            <img src="images/5.jpg" alt="Paleo beef steak with vegetables" />
           </figure>
         </li>
         <li>
           <figure class="meal-photo">
-            <img src="/images/6.jpg" alt="Healthy baguette with egg and vegetables" />
+            <img src="images/6.jpg" alt="Healthy baguette with egg and vegetables" />
           </figure>
         </li>
         <li>
           <figure class="meal-photo">
-            <img src="/images/7.jpg" alt="Burger with cheddar and bacon" />
+            <img src="images/7.jpg" alt="Burger with cheddar and bacon" />
           </figure>
         </li>
         <li>
           <figure class="meal-photo">
-            <img src="/images/8.jpg" alt="Granola with cherries and strawberries" />
+            <img src="images/8.jpg" alt="Granola with cherries and strawberries" />
           </figure>
         </li>
       </ul>
@@ -139,7 +139,7 @@
       </div>
       <div class="row">
         <div class="col span-1-of-2 steps-box">
-          <img class="app-screen js--wp-2" src="/images/app-iPhone.png" alt="Omnifood App on phone" />
+          <img class="app-screen js--wp-2" src="images/app-iPhone.png" alt="Omnifood App on phone" />
         </div>
 
         <div class="col span-1-of-2 steps-box">
@@ -158,9 +158,9 @@
             <p>Enjoy your meal after less than 20 minutes. See you the next time!</p>
           </div>
 
-          <a href="#" class="btn-app"><img src="/images/download-app.svg" alt="Download from AppStore" /></a>
+          <a href="#" class="btn-app"><img src="images/download-app.svg" alt="Download from AppStore" /></a>
 
-          <a href="#" class="btn-app"><img src="/images/download-app-android.png" alt="Download from Google Play" /></a>
+          <a href="#" class="btn-app"><img src="images/download-app-android.png" alt="Download from Google Play" /></a>
         </div>
       </div>
     </section>
@@ -171,7 +171,7 @@
       </div>
       <div class="row">
         <div class="col span-1-of-4 box">
-          <img src="/images/lisbon-3.jpg" alt="Lisbon" />
+          <img src="images/lisbon-3.jpg" alt="Lisbon" />
           <h3>Lisbon</h3>
           <div class="city-feature">
             <i class="ion-ios-person icon-small"></i>
@@ -187,7 +187,7 @@
           </div>
         </div>
         <div class="col span-1-of-4 box">
-          <img src="/images/san-francisco.jpg" alt="San Francisco" />
+          <img src="images/san-francisco.jpg" alt="San Francisco" />
           <h3>San Francisco</h3>
           <div class="city-feature">
             <i class="ion-ios-person icon-small"></i>
@@ -203,7 +203,7 @@
           </div>
         </div>
         <div class="col span-1-of-4 box">
-          <img src="/images/berlin.jpg" alt="Berlin" />
+          <img src="images/berlin.jpg" alt="Berlin" />
           <h3>Berlin</h3>
           <div class="city-feature">
             <i class="ion-ios-person icon-small"></i>
@@ -219,7 +219,7 @@
           </div>
         </div>
         <div class="col span-1-of-4 box">
-          <img src="/images/london.jpg" alt="London" />
+          <img src="images/london.jpg" alt="London" />
           <h3>London</h3>
           <div class="city-feature">
             <i class="ion-ios-person icon-small"></i>
@@ -246,21 +246,21 @@
           <blockquote>
             Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is
             a life-saver. Now that I got used to it, I couldn't live without my daily meals!
-            <cite> <img src="/images/customer-1.jpg" alt="Alberto Duncan" /> Alberto Duncan </cite>
+            <cite> <img src="images/customer-1.jpg" alt="Alberto Duncan" /> Alberto Duncan </cite>
           </blockquote>
         </div>
         <div class="col span-1-of-3">
           <blockquote>
             Inexpensive, healthy and great-tasting meals, delivered right to my home. We have lots of food delivery here
             in Lisbon, but no one comes even close to Omifood. Me and my family are so in love!
-            <cite> <img src="/images/customer-2.jpg" alt="Joana Silva" /> Joana Silva </cite>
+            <cite> <img src="images/customer-2.jpg" alt="Joana Silva" /> Joana Silva </cite>
           </blockquote>
         </div>
         <div class="col span-1-of-3">
           <blockquote>
             I was looking for a quick and easy food delivery service in San Franciso. I tried a lot of them and ended up
             with Omnifood. Best food delivery service in the Bay Area. Keep up the great work!
-            <cite> <img src="/images/customer-3.jpg" alt="Milton Chapman" /> Milton Chapman </cite>
+            <cite> <img src="images/customer-3.jpg" alt="Milton Chapman" /> Milton Chapman </cite>
           </blockquote>
         </div>
       </div>
@@ -443,6 +443,6 @@
     </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="vendors/js/jquery.waypoints.min.js"></script>
-    <script src="/js/script.js"></script>
+    <script src="js/script.js"></script>
   </body>
 </html>
